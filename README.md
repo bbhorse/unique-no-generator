@@ -26,7 +26,8 @@ public class AppConfig {
     }
 }
 
-3、使用
+3、使用。
+
 @Service
 public class UniqueNoServiceImpl implements UniqueNoService {
 
