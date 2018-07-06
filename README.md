@@ -1,5 +1,5 @@
 # unique-no-generator
-1、使用资源文件中的数据库脚本创建表；
+1、使用资源文件中的数据库脚本创建表:https://github.com/bbhorse/unique-no-generator/blob/master/src/main/resources/db/schema.sql
 
 2、配置springbean，本例子基于spring java base配置实现。
     
