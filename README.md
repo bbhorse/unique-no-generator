@@ -2,6 +2,7 @@
 1、使用资源文件中的数据库脚本创建表；
 
 2、配置springbean，本例子基于spring java base配置实现。
+    
     @Configuration
     public class AppConfig {
 
