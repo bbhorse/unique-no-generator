@@ -8,3 +8,5 @@ CREATE TABLE `sequence_key` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `idx_sequence_key` (`key`) USING BTREE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO `sequence_key` VALUES ('1000', 'TUTORIAL', '100003400', '100', '示例随机数生成种子');
